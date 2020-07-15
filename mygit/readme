@@ -3,4 +3,9 @@
 (2) git checkout branch release 切换到release分支
 (3) git add my.java  向git中添加my.java文件，文件在当前目录
 (4) git add */my.java 向git中添加my.java文件，文件在下一级目录中，可以这样执行
-(5) 
+(5) git commit -o my.java -m '提交备注'  提交了指定的文件，并添加了备注
+(6) git push origin release 将本地仓库内容推送到远程仓库
+(7) git pull origin release 拉去远程仓库到本地
+
+-- 备注
+origin 映射是远程仓库地址--> https://github.com/issjin/code
