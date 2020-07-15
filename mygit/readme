@@ -1,0 +1,6 @@
+1.git 命令
+(1) git branch 查看分支
+(2) git checkout branch release 切换到release分支
+(3) git add my.java  向git中添加my.java文件，文件在当前目录
+(4) git add */my.java 向git中添加my.java文件，文件在下一级目录中，可以这样执行
+(5) 
